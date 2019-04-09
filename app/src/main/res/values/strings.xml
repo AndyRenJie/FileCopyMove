@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FileCopyMoveSample</string>
+    <string name="back">返回</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="copy">复制</string>
+    <string name="move">移动</string>
+    <string name="more">更多</string>
+    <string name="tips1">该文件已存在，是否替换？</string>
+    <string name="tips2">该文件夹已存在，是否合并？</string>
+    <string name="loading">加载中...</string>
+    <string name="selected_path">选择路径</string>
+    <string name="skip">跳过</string>
+    <string name="replace">替换</string>
+    <string name="keep">保留</string>
+    <string name="all">应用到全部</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="operation_success">操作成功</string>
+    <string name="operation_failed">操作失败</string>
+</resources>
